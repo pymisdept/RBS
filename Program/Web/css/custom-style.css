@@ -1,0 +1,25 @@
+/** do not delete - placeholder file to be used if no custom-style.css file is provided */
+.bookedC 
+{
+	color: #000000 !important;
+	background: #ffff80; /* Old browsers */
+	background: -moz-linear-gradient(-45deg, #ffff80 1%, #ffff80 50%, #d8f0fc 50%, #c7ebe8 50%, #c7ebe8 50%, #d8f0fc 50%, #b6dffd 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(-45deg, #ffff80 1%,#ffff80 50%,#d8f0fc 50%,#c7ebe8 50%,#c7ebe8 50%,#d8f0fc 50%,#b6dffd 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(135deg, #ffff80 1%,#ffff80 50%,#d8f0fc 50%,#c7ebe8 50%,#c7ebe8 50%,#d8f0fc 50%,#b6dffd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffff80', endColorstr='#b6dffd',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.customAttributes
+{
+	margin-top: -15px
+}
+
+.custAttr
+{
+	padding-top: 15px;	
+}
+
+.form-control[readonly]
+{
+	cursor: not-allowed;
+}
